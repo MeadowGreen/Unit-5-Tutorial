@@ -7,8 +7,8 @@
 
    Payment Form Script
    
-   Author: 
-   Date:   
+   Author: Meadow Green
+   Date:   5-15-20
    
    Filename: co_payment.js
    
